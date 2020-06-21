@@ -1,0 +1,7 @@
+red
+blue
+white
+black
+orange
+
+these are my favourite colours
