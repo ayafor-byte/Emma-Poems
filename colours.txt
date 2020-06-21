@@ -1,3 +1,4 @@
+Colours of the rainbow
 red
 blue
 white
@@ -5,4 +6,5 @@ pink
 black
 orange
 Green
-these are my favourite colours
+these are my favourite colours 
+And the colours of the rainbow
