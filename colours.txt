@@ -3,6 +3,8 @@ red
 blue
 white
 pink
+oxblood
+yellow
 black
 orange
 Green
