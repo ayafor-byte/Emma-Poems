@@ -1,6 +1,8 @@
 Colours of the rainbow
 red
 blue
+indigo
+grey
 white
 pink
 black
