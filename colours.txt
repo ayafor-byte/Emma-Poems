@@ -1,6 +1,7 @@
 red
 blue
 white
+pink
 black
 orange
 
